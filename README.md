@@ -1,4 +1,4 @@
-<img align="right" src = "https://th.bing.com/th/id/OIP.MasR8wQCaPVOSaD0195F_wHaEK?pid=ImgDet&rs=1">
+
 <h1 align="center">Hi 👋, I'm aayat bilal</h1>
 <h3 align="center">programmer</h3>
 <img align="right" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
